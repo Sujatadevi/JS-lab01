@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background: gainsboro;
+  padding: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+input {
+  width: 400px !important;
+}
+
+.card {
+  background-color: cornflowerblue;
+  opacity: 0.9;
+  padding: 10px 0px 10px 0px;
+  margin-top: 20px;
+  border: 1px solid lightgray;
+}
+
+.name {
+  font-weight: 300;
+}
